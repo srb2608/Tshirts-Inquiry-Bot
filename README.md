@@ -2,6 +2,7 @@ This is an end-to-end LLM-based application built using OpenAI and LangChain tha
 
 <img width="1866" height="765" alt="Tshirts bot" src="https://github.com/user-attachments/assets/26187514-22b1-4aa2-bd8c-83c20e98ab31" />
 
+
 Key Highlights<br>
 ●	Inventory, sales and discounts data is stored in a MySQL database<br>
 ●	OpenAI<br>
